@@ -1,0 +1,30 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# User-specific files
+*.userprefs
+.vs/
+
+# Logs
+*.log
+
+# Visual Studio files
+*.vspscc
+*.vssscc
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# OS generated files
+.DS_Store
+Thumbs.db

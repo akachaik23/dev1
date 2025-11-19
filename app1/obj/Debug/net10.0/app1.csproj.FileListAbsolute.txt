@@ -12,3 +12,4 @@
 /workspaces/dev1/app1/obj/Debug/net10.0/app1.pdb
 /workspaces/dev1/app1/obj/Debug/net10.0/app1.genruntimeconfig.cache
 /workspaces/dev1/app1/obj/Debug/net10.0/ref/app1.dll
+/workspaces/dev1/app1/obj/Debug/net10.0/app1.sourcelink.json
